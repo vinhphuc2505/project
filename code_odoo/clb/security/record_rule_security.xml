@@ -1,0 +1,62 @@
+<odoo>
+    <data noupdate="1">
+
+        <!-- Phân quyền admin với thành viên -->
+        <record id="rule_clb_admin" model="ir.rule">
+            <field name="name">Admin</field>
+            <field name="model_id" ref="model_clb_member"/>
+            <field name="domain_force">[]</field>
+            <field name="perm_read" eval="True"/>
+            <field name="perm_write" eval="True"/>
+            <field name="perm_create" eval="True"/>
+            <field name="perm_unlink" eval="True"/>
+            <field name="groups" eval="[(4, ref('clb.group_event_admin'))]"/>
+        </record>
+        <!-- Phân quyền trưởng nhóm với thành viên -->
+        <record id="rule_clb_leader" model="ir.rule">
+            <field name="name">Trưởng nhóm</field>
+            <field name="model_id" ref="model_clb_member"/>
+            <field name="domain_force">[('clb_id.member_ids.user_id', '=', user.id)]</field>
+            <field name="perm_read" eval="True"/>
+            <field name="perm_write" eval="False"/>
+            <field name="perm_create" eval="False"/>
+            <field name="perm_unlink" eval="False"/>
+            <field name="groups" eval="[(4, ref('clb.group_event_leader'))]"/>
+        </record>
+        <!-- Phân quyền thành viên với model member -->
+        <record id="rule_clb_member" model="ir.rule">
+            <field name="name">Thành viên</field>
+            <field name="model_id" ref="model_clb_member"/>
+            <field name="domain_force">[('clb_id.member_ids.user_id', '=', user.id)]</field>
+            <field name="perm_read" eval="True"/>
+            <field name="perm_write" eval="False"/>
+            <field name="perm_create" eval="False"/>
+            <field name="perm_unlink" eval="False"/>
+            <field name="groups" eval="[(4, ref('clb.group_event_member'))]"/>
+        </record>
+        <!-- Phân quyền thành viên với model registration-->
+        <record id="rule_clb_member" model="ir.rule">
+            <field name="name">Thành viên</field>
+            <field name="model_id" ref="model_event_registration"/>
+            <field name="domain_force">[('member_id.user_id', '=', user.id)]</field>
+            <field name="perm_read" eval="True"/>
+            <field name="perm_write" eval="False"/>
+            <field name="perm_create" eval="False"/>
+            <field name="perm_unlink" eval="False"/>
+            <field name="groups" eval="[(4, ref('clb.group_event_member'))]"/>
+        </record>
+        <!-- Phân quyền trưởng nhóm với model registration-->
+        <record id="rule_clb_leader" model="ir.rule">
+            <field name="name">Trưởng nhóm</field>
+            <field name="model_id" ref="model_event_registration"/>
+            <field name="domain_force">[]</field>
+            <field name="perm_read" eval="True"/>
+            <field name="perm_write" eval="True"/>
+            <field name="perm_create" eval="True"/>
+            <field name="perm_unlink" eval="True"/>
+            <field name="groups" eval="[(4, ref('clb.group_event_leader'))]"/>
+        </record>
+    </data>
+</odoo>
+
+

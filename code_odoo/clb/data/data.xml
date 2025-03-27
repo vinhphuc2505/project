@@ -1,0 +1,8 @@
+<odoo>
+    <data noupdate="1">
+        <record id="set_default_change_password" model="ir.config_parameter">
+            <field name="key">auth_signup.reset_password</field>
+            <field name="value">True</field>
+        </record>
+    </data>
+</odoo>

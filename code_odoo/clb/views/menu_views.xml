@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <!-- Menu gốc -->
+        <menuitem id="menu_clb_root"
+                  name="Quản lý CLB"
+                  web_icon="clb,static/description/icon.png"
+                  sequence="10"/>
+
+        <!-- Menu CLB -->
+        <record id="action_clb_management" model="ir.actions.act_window">
+            <field name="name">Câu lạc bộ</field>
+            <field name="res_model">clb.management</field>
+            <field name="view_mode">tree,form</field>
+            <field name="help" type="html">
+                <p class="o_view_nocontent_smiling_face">
+                    Tạo câu lạc bộ mới
+                </p>
+            </field>
+        </record>
+
+        <menuitem id="menu_clb_management"
+                  name="Câu lạc bộ"
+                  parent="menu_clb_root"
+                  action="action_clb_management"
+                  sequence="10"/>
+
+        <!-- Menu Thành viên -->
+        <record id="action_member_management" model="ir.actions.act_window">
+            <field name="name">Thành viên</field>
+            <field name="res_model">clb.member</field>
+            <field name="view_mode">tree,form</field>
+            <field name="help" type="html">
+                <p class="o_view_nocontent_smiling_face">
+                    Tạo thành viên mới
+                </p>
+            </field>
+        </record>
+
+        <menuitem id="menu_member_management"
+                  name="Thành viên"
+                  parent="menu_clb_root"
+                  action="action_member_management"
+                  sequence="20"/>
+
+        <!-- Menu Sự kiện -->
+        <record id="action_event_management" model="ir.actions.act_window">
+            <field name="name">Sự kiện</field>
+            <field name="res_model">event.management</field>
+            <field name="view_mode">tree,form</field>
+            <field name="help" type="html">
+                <p class="o_view_nocontent_smiling_face">
+                    Tạo sự kiện mới
+                </p>
+            </field>
+        </record>
+
+        <menuitem id="menu_event_management"
+                  name="Sự kiện"
+                  parent="menu_clb_root"
+                  action="action_event_management"
+                  sequence="30"/>
+
+        <!-- Menu Đăng ký sự kiện -->
+        <record id="action_event_registration" model="ir.actions.act_window">
+            <field name="name">Đăng ký sự kiện</field>
+            <field name="res_model">event.registration</field>
+            <field name="view_mode">tree,form</field>
+            <field name="help" type="html">
+                <p class="o_view_nocontent_smiling_face">
+                    Tạo đăng ký mới
+                </p>
+            </field>
+        </record>
+
+        <menuitem id="menu_event_registration"
+                  name="Đăng ký"
+                  parent="menu_clb_root"
+                  action="action_event_registration"
+                  sequence="40"/>
+    </data>
+</odoo>

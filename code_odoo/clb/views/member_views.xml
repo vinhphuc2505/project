@@ -1,0 +1,98 @@
+<odoo>
+    <data>
+        <!-- Root Menu for CLB -->
+        <menuitem id="menu_clb_root" name="CLB" sequence="1"/>
+
+        <!-- Member Tree View -->
+        <record id="view_member_tree" model="ir.ui.view">
+            <field name="name">clb.member.tree</field>
+            <field name="model">clb.member</field>
+            <field name="arch" type="xml">
+                <tree>
+                    <field name="code"/>
+                    <field name="name"/>
+                    <field name="clb_id"/>
+                    <field name="position"/>
+                    <field name="phone"/>
+                    <field name="email"/>
+                    <button groups="clb.group_event_admin, clb.group_event_leader"
+                            name="action_remove_from_club"
+                            type="object"
+                            icon="fa-trash-o"
+                            confirm="Bạn có chắc chắn muốn xóa thành viên này khỏi CLB không? Thành viên sẽ trở thành VĐV tự do."
+                            invisible="position == 'leader'"/>
+                </tree>
+            </field>
+        </record>
+
+        <!-- Member Form View -->
+        <record id="view_member_form" model="ir.ui.view">
+            <field name="name">clb.member.form</field>
+            <field name="model">clb.member</field>
+            <field name="arch" type="xml">
+                <form>
+                    <sheet>
+                        <field name="image" widget="image" class="oe_avatar"/>
+                        <div class="oe_title">
+                            <h1>
+                                <field name="name" placeholder="Tên thành viên..."/>
+                            </h1>
+                            <h2>
+                                <field name="code" readonly="1"/>
+                            </h2>
+                        </div>
+                        <group>
+                            <group>
+                                <field name="clb_id" options="{'no_create_edit': True}"/>
+                                <!-- Removed domain from position field -->
+                                <field name="position" context="{'invisible': [('clb_id', '=', False)], 'required': [('clb_id', '!=', False)]}"/>
+                                <field name="gender"/>
+                            </group>
+                            <group>
+                                <field name="day_of_birth"/>
+                                <field name="country_id"/>
+                                <field name="phone"/>
+                                <field name="email"/>
+                            </group>
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+
+        <!-- Action cho thành viên tự do -->
+        <record id="action_free_member" model="ir.actions.act_window">
+            <field name="name">Thành viên tự do</field>
+            <field name="res_model">clb.member</field>
+            <field name="view_mode">tree,form</field>
+            <field name="domain">[('clb_id', '=', False)]</field>
+            <field name="help" type="html">
+                <p class="o_view_nocontent_smiling_face">
+                    Chưa có thành viên tự do nào
+                </p>
+            </field>
+        </record>
+
+        <!-- Search View -->
+        <record id="view_member_search" model="ir.ui.view">
+            <field name="name">clb.member.search</field>
+            <field name="model">clb.member</field>
+            <field name="arch" type="xml">
+                <search>
+                    <field name="name"/>
+                    <field name="code"/>
+                    <field name="email"/>
+                    <field name="phone"/>
+                    <separator/>
+                    <filter string="Thành viên tự do" name="free_members" domain="[('clb_id', '=', False)]"/>
+                    <filter string="Thành viên CLB" name="club_members" domain="[('clb_id', '!=', False)]"/>
+                    <group expand="0" string="Group By">
+                        <filter string="CLB" name="group_by_club" context="{'group_by': 'clb_id'}"/>
+                        <filter string="Chức vụ" name="group_by_position" context="{'group_by': 'position'}"/>
+                    </group>
+                </search>
+            </field>
+        </record>
+    </data>
+</odoo>
+

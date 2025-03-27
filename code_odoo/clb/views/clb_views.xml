@@ -1,0 +1,92 @@
+<odoo>
+    <data>
+        <record id="view_clb_tree" model="ir.ui.view">
+            <field name="name">clb.management.tree</field>
+            <field name="model">clb.management</field>
+            <field name="arch" type="xml">
+                <tree string = "Club">
+                    <field name="code"/>
+                    <field name="name"/>
+                    <field name="leader_name" string="Trưởng nhóm"/>
+                    <field name="description"/>
+                </tree>
+            </field>
+        </record>
+
+        <record id="view_clb_form" model="ir.ui.view">
+            <field name="name">clb.management.form</field>
+            <field name="model">clb.management</field>
+            <field name="arch" type="xml">
+                <form string = "Club">
+                    <sheet>
+                        <div class="oe_button_box" name="button_box">
+                            <button name="action_view_free_members" type="object"
+                                    class="oe_stat_button" icon="fa-users">
+                                <span class="o_stat_text">Thành viên tự do</span>
+                            </button>
+                            <!-- Thêm button hiển thị số trưởng nhóm -->
+                            <button class="oe_stat_button" icon="fa-user" disabled="1">
+                                <field name="leader_count" widget="statinfo" string="Trưởng nhóm"/>
+                            </button>
+                        </div>
+                        <field name="image" widget="image" class="oe_avatar"/>
+                        <div class="oe_title">
+                            <label for="code" string="Mã CLB"/>
+                            <h1>
+                                <field name="code" readonly="1"/>
+                            </h1>
+                            <label for="name" string="Tên CLB"/>
+                            <h2>
+                                <field name="name" placeholder="Tên CLB..."/>
+                            </h2>
+                        </div>
+                        <group>
+                            <field name="description"/>
+                        </group>
+                        <notebook>
+                            <page string="Thành viên">
+                                <field name="member_ids" context="{'default_clb_id': active_id}">
+                                    <tree delete="false">
+                                        <field name="code"/>
+                                        <field name="name"/>
+                                        <field name="position"/>
+                                        <field name="phone"/>
+                                        <field name="email"/>
+                                        <button name="action_remove_from_club"
+                                                type="object"
+                                                icon="fa-trash-o"
+                                                confirm="Bạn có chắc chắn muốn xóa thành viên này khỏi CLB không? Thành viên sẽ trở thành VĐV tự do."
+                                                attrs="{'invisible': [('position', '=', 'leader')]}"/>
+                                    </tree>
+                                </field>
+                            </page>
+                        </notebook>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+
+        <!-- Thêm search view để lọc và nhóm -->
+        <record id="view_clb_search" model="ir.ui.view">
+            <field name="name">clb.management.search</field>
+            <field name="model">clb.management</field>
+            <field name="arch" type="xml">
+                <search>
+                    <field name="name"/>
+                    <field name="code"/>
+                    <separator/>
+                    <filter string="Có trưởng nhóm"
+                            name="has_leader"
+                            domain="[('member_ids.position', '=', 'leader')]"/>
+                    <filter string="Chưa có trưởng nhóm"
+                            name="no_leader"
+                            domain="[('member_ids.position', '!=', 'leader')]"/>
+                    <group expand="0" string="Group By">
+                        <filter string="CLB" name="group_by_clb" context="{'group_by': 'name'}"/>
+                    </group>
+                </search>
+            </field>
+        </record>
+    </data>
+</odoo>
+

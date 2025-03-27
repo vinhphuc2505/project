@@ -1,0 +1,25 @@
+# clb/__manifest__.py
+{
+    'name': 'Event manager',
+    'version': '1.0',
+    'category': 'Club',
+    'summary': 'Manage Clubs',
+    'author': 'Phuc',
+    'depends': ['base'],
+    'description': 'Module to manage clubs and related activities.',
+    'images': ['static/description/icon.png'],
+    'data': [
+        'security/group_security.xml',
+        'security/record_rule_security.xml',
+        'security/ir.model.access.csv',
+        'views/sequence.xml',
+        'views/clb_views.xml',
+        'views/member_views.xml',
+        'views/event_views.xml',
+        'views/registration_views.xml',
+        'views/cron_update_event.xml',
+        'views/menu_views.xml',
+    ],
+    'installable': True,
+    'application': True,
+}
