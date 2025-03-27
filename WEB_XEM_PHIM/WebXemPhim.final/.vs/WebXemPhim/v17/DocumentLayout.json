@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|c:\\users\\dangkhoa\\desktop\\webxemphim0104\\webxemphim\\views\\gioithieu\\gioithieuwebxemphimso1vietnam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\views\\gioithieu\\gioithieuwebxemphimso1vietnam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\views\\shared\\_layoutss2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\views\\shared\\_layoutss2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\models\\dataclasses1.dbml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\models\\dataclasses1.dbml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\views\\chitietphim\\chitietphim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\views\\chitietphim\\chitietphim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\content\\admin\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\content\\admin\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\content\\css\\css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\content\\css\\css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\views\\tintucphim\\tintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\views\\tintucphim\\tintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\views\\tintucphim\\chitiettintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\views\\tintucphim\\chitiettintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\views\\home\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\views\\home\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\XemSau\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:WebXemPhim\\Views\\XemSau\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Areas\\Admin\\Views\\Shared\\_LayoutPage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:WebXemPhim\\Areas\\Admin\\Views\\Shared\\_LayoutPage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\LichSuXem\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:WebXemPhim\\Views\\LichSuXem\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\views\\dangnhapdangky\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\views\\dangnhapdangky\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\views\\timkiem\\timkiemnam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\views\\timkiem\\timkiemnam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\views\\xemphim\\xemphim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\views\\xemphim\\xemphim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Areas\\Admin\\Views\\DanhMuc\\SuaGioiThieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:WebXemPhim\\Areas\\Admin\\Views\\DanhMuc\\SuaGioiThieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\webxemphim\\views\\xemphim\\xemphimle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C87985-EC31-4818-A80F-308B766A23F2}|WebXemPhim\\WebXemPhim.csproj|solutionrelative:webxemphim\\views\\xemphim\\xemphimle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\Web.config",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\Web.config",
+              "RelativeToolTip": "WebXemPhim\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-02T14:24:11.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAALEAAAAAAAAAAAAcwMUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T01:22:45.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChiTietPhim.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\ChiTietPhim\\ChiTietPhim.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\ChiTietPhim\\ChiTietPhim.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\ChiTietPhim\\ChiTietPhim.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\ChiTietPhim\\ChiTietPhim.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAiwIkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T06:41:31.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Content\\style.css",
+              "RelativeDocumentMoniker": "WebXemPhim\\Content\\style.css",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Content\\style.css",
+              "RelativeToolTip": "WebXemPhim\\Content\\style.css",
+              "ViewState": "AQIAAG0GAAAAAAAAAAAiwIIGAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-28T13:33:56.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataClasses1.dbml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Models\\DataClasses1.dbml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Models\\DataClasses1.dbml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Models\\DataClasses1.dbml",
+              "RelativeToolTip": "WebXemPhim\\Models\\DataClasses1.dbml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-02T14:25:43.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GioiThieuWebXemPhimSo1VietNam.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\GioiThieu\\GioiThieuWebXemPhimSo1VietNam.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\GioiThieu\\GioiThieuWebXemPhimSo1VietNam.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\GioiThieu\\GioiThieuWebXemPhimSo1VietNam.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\GioiThieu\\GioiThieuWebXemPhimSo1VietNam.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T02:16:12.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Web.config",
+              "RelativeDocumentMoniker": "WebXemPhim\\Web.config",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Web.config",
+              "RelativeToolTip": "WebXemPhim\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAD0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-28T01:16:06.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layoutss2.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\Shared\\_Layoutss2.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\Shared\\_Layoutss2.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\Shared\\_Layoutss2.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\Shared\\_Layoutss2.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T03:43:44.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwC4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T01:25:13.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sb-admin-2.css",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Content\\Admin\\css\\sb-admin-2.css",
+              "RelativeDocumentMoniker": "WebXemPhim\\Content\\Admin\\css\\sb-admin-2.css",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Content\\Admin\\css\\sb-admin-2.css",
+              "RelativeToolTip": "WebXemPhim\\Content\\Admin\\css\\sb-admin-2.css",
+              "ViewState": "AQIAAFobAAAAAAAAAAAiwGYbAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-08T06:55:40.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "css.css",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Content\\css\\css.css",
+              "RelativeDocumentMoniker": "WebXemPhim\\Content\\css\\css.css",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Content\\css\\css.css",
+              "RelativeToolTip": "WebXemPhim\\Content\\css\\css.css",
+              "ViewState": "AQIAAO0IAAAAAAAAAAAiwOMIAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-28T13:31:45.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TinTuc.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\TinTucPhim\\TinTuc.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\TinTucPhim\\TinTuc.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\TinTucPhim\\TinTuc.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\TinTucPhim\\TinTuc.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T11:29:27.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChiTietTinTuc.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\TinTucPhim\\ChiTietTinTuc.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\TinTucPhim\\ChiTietTinTuc.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\TinTucPhim\\ChiTietTinTuc.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\TinTucPhim\\ChiTietTinTuc.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T11:29:20.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\packages.config",
+              "RelativeDocumentMoniker": "WebXemPhim\\packages.config",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\packages.config",
+              "RelativeToolTip": "WebXemPhim\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-07T01:37:23.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Areas\\Admin\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Areas\\Admin\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Areas\\Admin\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Areas\\Admin\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T01:21:15.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T11:28:21.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TimKiem.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\Home\\TimKiem.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\Home\\TimKiem.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\Home\\TimKiem.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\Home\\TimKiem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T14:49:20.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T14:49:25.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\LichSuXem\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\LichSuXem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\LichSuXem\\Index.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\LichSuXem\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T01:25:29.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\XemSau\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\XemSau\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\XemSau\\Index.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\XemSau\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T01:26:08.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TimKiemNam.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\TimKiem\\TimKiemNam.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\TimKiem\\TimKiemNam.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\TimKiem\\TimKiemNam.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\TimKiem\\TimKiemNam.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T11:29:38.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\DangNhapDangKy\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\DangNhapDangKy\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\DangNhapDangKy\\DangKy.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\DangNhapDangKy\\DangKy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T11:30:18.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "XemPhim.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\XemPhim\\XemPhim.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\XemPhim\\XemPhim.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\XemPhim\\XemPhim.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\XemPhim\\XemPhim.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvycAAACaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T11:28:36.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SuaGioiThieu.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Areas\\Admin\\Views\\DanhMuc\\SuaGioiThieu.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Areas\\Admin\\Views\\DanhMuc\\SuaGioiThieu.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Areas\\Admin\\Views\\DanhMuc\\SuaGioiThieu.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Areas\\Admin\\Views\\DanhMuc\\SuaGioiThieu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T01:28:29.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "XemPhimLe.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\XemPhim\\XemPhimLe.cshtml",
+              "RelativeDocumentMoniker": "WebXemPhim\\Views\\XemPhim\\XemPhimLe.cshtml",
+              "ToolTip": "C:\\Users\\dangkhoa\\Desktop\\WebXemPhim0104\\WebXemPhim\\Views\\XemPhim\\XemPhimLe.cshtml",
+              "RelativeToolTip": "WebXemPhim\\Views\\XemPhim\\XemPhimLe.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T07:00:29.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

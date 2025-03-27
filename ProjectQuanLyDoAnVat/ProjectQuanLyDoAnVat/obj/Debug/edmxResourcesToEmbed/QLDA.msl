@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Data_QLDAModel1StoreContainer" CdmEntityContainer="Data_QLDAEntities1">
+    <EntitySetMapping Name="bans">
+      <EntityTypeMapping TypeName="Data_QLDAModel1.ban">
+        <MappingFragment StoreEntitySet="ban">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="ten" ColumnName="ten" />
+          <ScalarProperty Name="trangthai" ColumnName="trangthai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="chitiethoadons">
+      <EntityTypeMapping TypeName="Data_QLDAModel1.chitiethoadon">
+        <MappingFragment StoreEntitySet="chitiethoadon">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idhoadon" ColumnName="idhoadon" />
+          <ScalarProperty Name="idmonan" ColumnName="idmonan" />
+          <ScalarProperty Name="count" ColumnName="count" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="hoadons">
+      <EntityTypeMapping TypeName="Data_QLDAModel1.hoadon">
+        <MappingFragment StoreEntitySet="hoadon">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="datecheckin" ColumnName="datecheckin" />
+          <ScalarProperty Name="datecheckout" ColumnName="datecheckout" />
+          <ScalarProperty Name="idban" ColumnName="idban" />
+          <ScalarProperty Name="trangthai" ColumnName="trangthai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="mons">
+      <EntityTypeMapping TypeName="Data_QLDAModel1.mon">
+        <MappingFragment StoreEntitySet="mon">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="tenmon" ColumnName="tenmon" />
+          <ScalarProperty Name="gia" ColumnName="gia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="taikhoans">
+      <EntityTypeMapping TypeName="Data_QLDAModel1.taikhoan">
+        <MappingFragment StoreEntitySet="taikhoan">
+          <ScalarProperty Name="tennguoidung" ColumnName="tennguoidung" />
+          <ScalarProperty Name="tengiaodien" ColumnName="tengiaodien" />
+          <ScalarProperty Name="matkhau" ColumnName="matkhau" />
+          <ScalarProperty Name="type" ColumnName="type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

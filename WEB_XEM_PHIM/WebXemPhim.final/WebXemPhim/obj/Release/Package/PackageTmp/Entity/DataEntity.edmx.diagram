@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d66db9b15c59456087358539c1ea2f17" Name="Diagram1">
+        <EntityTypeShape EntityType="dbDoAnWebModel.Banner" Width="1.5" PointX="5.25" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbDoAnWebModel.CTTapPhim" Width="1.5" PointX="5.25" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbDoAnWebModel.DSPhimBo" Width="1.5" PointX="3" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbDoAnWebModel.DSPhimLe" Width="1.5" PointX="6" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbDoAnWebModel.Nam" Width="1.5" PointX="0.75" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbDoAnWebModel.QuocGia" Width="1.5" PointX="0.75" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbDoAnWebModel.sysdiagram" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbDoAnWebModel.TaiKhoan" Width="1.5" PointX="5.25" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbDoAnWebModel.TheLoai" Width="1.5" PointX="0.75" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbDoAnWebModel.tintucphim" Width="1.5" PointX="2.75" PointY="0.5" IsExpanded="true" />
+        <AssociationConnector Association="dbDoAnWebModel.FK_Banner_DSPhimBo" ManuallyRouted="false" />
+        <AssociationConnector Association="dbDoAnWebModel.FK_CTTapPhim_DSPhimBo" ManuallyRouted="false" />
+        <AssociationConnector Association="dbDoAnWebModel.FK_DSPhimBo_Nam" ManuallyRouted="false" />
+        <AssociationConnector Association="dbDoAnWebModel.FK_DSPhimBo_QuocGia" ManuallyRouted="false" />
+        <AssociationConnector Association="dbDoAnWebModel.FK_DSPhimBo_TheLoai" ManuallyRouted="false" />
+        <AssociationConnector Association="dbDoAnWebModel.FK_DSPhimLe_Nam" ManuallyRouted="false" />
+        <AssociationConnector Association="dbDoAnWebModel.FK_DSPhimLe_QuocGia" ManuallyRouted="false" />
+        <AssociationConnector Association="dbDoAnWebModel.FK_DSPhimLe_TheLoai" ManuallyRouted="false" />
+        <AssociationConnector Association="dbDoAnWebModel.HopPhim" ManuallyRouted="false" />
+        <AssociationConnector Association="dbDoAnWebModel.LichSu" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

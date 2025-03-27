@@ -1,0 +1,35 @@
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\bin\Debug\ProjectQuanLyDoAnVat.exe.config
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\bin\Debug\ProjectQuanLyDoAnVat.exe
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\bin\Debug\ProjectQuanLyDoAnVat.pdb
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.csproj.AssemblyReference.cache
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.csproj.SuggestedBindingRedirects.cache
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.admin.resources
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.Login.resources
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.Properties.Resources.resources
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.csproj.GenerateResource.cache
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.csproj.CoreCompileInputs.cache
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.exe
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.pdb
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\bin\Debug\ProjectQuanLyDoAnVat.exe.config
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\bin\Debug\ProjectQuanLyDoAnVat.exe
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\bin\Debug\ProjectQuanLyDoAnVat.pdb
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.csproj.AssemblyReference.cache
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.admin.resources
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.Login.resources
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.Properties.Resources.resources
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.csproj.GenerateResource.cache
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.csproj.CoreCompileInputs.cache
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.exe
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.pdb
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\bin\Debug\EntityFramework.dll
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\bin\Debug\EntityFramework.xml
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.Order.resources
+D:\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.csproj.CopyComplete
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\bin\Debug\EntityFramework.dll
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\bin\Debug\EntityFramework.SqlServer.dll
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\bin\Debug\EntityFramework.xml
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\bin\Debug\EntityFramework.SqlServer.xml
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.Order.resources
+D:\2023-2024\Lập trình trên Window\ProjectQuanLyDoAnVat\ProjectQuanLyDoAnVat\obj\Debug\ProjectQuanLyDoAnVat.csproj.CopyComplete

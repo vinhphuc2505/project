@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Data_QLDAModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ban">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ten" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="trangthai" Type="nvarchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="chitiethoadon">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="idhoadon" Type="int" Nullable="false" />
+    <Property Name="idmonan" Type="int" Nullable="false" />
+    <Property Name="count" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="hoadon">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="datecheckin" Type="date" Nullable="false" />
+    <Property Name="datecheckout" Type="date" />
+    <Property Name="idban" Type="int" Nullable="false" />
+    <Property Name="trangthai" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="mon">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="tenmon" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="gia" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="taikhoan">
+    <Key>
+      <PropertyRef Name="tennguoidung" />
+    </Key>
+    <Property Name="tennguoidung" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="tengiaodien" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="matkhau" Type="nvarchar" MaxLength="1000" Nullable="false" />
+    <Property Name="type" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__chitietho__count__48CFD27E">
+    <End Role="hoadon" Type="Self.hoadon" Multiplicity="1" />
+    <End Role="chitiethoadon" Type="Self.chitiethoadon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="hoadon">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="chitiethoadon">
+        <PropertyRef Name="idhoadon" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__chitietho__idmon__49C3F6B7">
+    <End Role="mon" Type="Self.mon" Multiplicity="1" />
+    <End Role="chitiethoadon" Type="Self.chitiethoadon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="mon">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="chitiethoadon">
+        <PropertyRef Name="idmonan" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__hoadon__trangtha__44FF419A">
+    <End Role="ban" Type="Self.ban" Multiplicity="1" />
+    <End Role="hoadon" Type="Self.hoadon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ban">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="hoadon">
+        <PropertyRef Name="idban" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Data_QLDAModel1StoreContainer">
+    <EntitySet Name="ban" EntityType="Self.ban" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="chitiethoadon" EntityType="Self.chitiethoadon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="hoadon" EntityType="Self.hoadon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="mon" EntityType="Self.mon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="taikhoan" EntityType="Self.taikhoan" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__chitietho__count__48CFD27E" Association="Self.FK__chitietho__count__48CFD27E">
+      <End Role="hoadon" EntitySet="hoadon" />
+      <End Role="chitiethoadon" EntitySet="chitiethoadon" />
+    </AssociationSet>
+    <AssociationSet Name="FK__chitietho__idmon__49C3F6B7" Association="Self.FK__chitietho__idmon__49C3F6B7">
+      <End Role="mon" EntitySet="mon" />
+      <End Role="chitiethoadon" EntitySet="chitiethoadon" />
+    </AssociationSet>
+    <AssociationSet Name="FK__hoadon__trangtha__44FF419A" Association="Self.FK__hoadon__trangtha__44FF419A">
+      <End Role="ban" EntitySet="ban" />
+      <End Role="hoadon" EntitySet="hoadon" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,1006 @@
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\DoAnWeb\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\New folder (12)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+D:\Bài tập web\Đồ án web\WebXemPhim (1)\WebXemPhim (1)\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.xml
+F:\WEB\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\PagedList.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\PagedList.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.xml
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\DoAn\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.xml
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\Admin\Downloads\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\PagedList.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\PagedList.xml
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\Admin\Desktop\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\PagedList.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\PagedList.xml
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.xml
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.dll
+C:\Users\Mikasa\Desktop\New folder (3)\new web\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\demodoanweb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.xml
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.xml
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\New folder\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.xml
+D:\Bài tập web\Đồ án web\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\Chỉnh sửa web lần cuối\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.xml
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.xml
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\ChiSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Facebook.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\Mikasa\Desktop\ChinhSuaWeb\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll.config
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\Facebook.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\PagedList.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Net.Http.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\Facebook.xml
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\PagedList.xml
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Net.Http.xml
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Net.Http.WebRequest.xml
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csproj.AssemblyReference.cache
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csproj.CoreCompileInputs.cache
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csproj.Up2Date
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\dangkhoa\Downloads\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csproj.AssemblyReference.cache
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csproj.CoreCompileInputs.cache
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll.config
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\Facebook.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\PagedList.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\Facebook.xml
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\PagedList.xml
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+D:\2023-2024\Lập trình Web\web\Đồ án\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csproj.CopyComplete
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll.config
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\Facebook.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\PagedList.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\Facebook.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\PagedList.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csproj.AssemblyReference.cache
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csproj.CoreCompileInputs.cache
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csproj.Up2Date
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll.config
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\Facebook.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\PagedList.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\WebGrease.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\Facebook.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\PagedList.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.csproj.Up2Date
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim\WebXemPhim\obj\Debug\WebXemPhim.pdb
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\WebXemPhim.dll.config
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\EntityFramework.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\Facebook.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\PagedList.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\WebGrease.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\Facebook.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\PagedList.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\EntityFramework.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\obj\Debug\WebXemPhim.csproj.AssemblyReference.cache
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\obj\Debug\WebXemPhim.csproj.CoreCompileInputs.cache
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\obj\Debug\WebXemPhim.csproj.Up2Date
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim(3103)\WebXemPhim\obj\Debug\WebXemPhim.pdb
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\WebXemPhim.dll.config
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\Facebook.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\PagedList.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\WebGrease.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\Facebook.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\PagedList.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\obj\Debug\WebXemPhim.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\obj\Debug\WebXemPhim.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\obj\Debug\WebXemPhim.csproj.Up2Date
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\HP\Desktop\Lập trình Web\WebXemPhim0104\WebXemPhim\obj\Debug\WebXemPhim.pdb
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\WebXemPhim.dll.config
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\WebXemPhim.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\WebXemPhim.pdb
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\Antlr3.Runtime.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\EntityFramework.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\Facebook.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\Newtonsoft.Json.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\PagedList.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\PagedList.Mvc.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Net.Http.Formatting.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.Http.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.Http.WebHost.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.Mvc.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.Optimization.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.Providers.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.Razor.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.WebPages.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\WebGrease.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\Facebook.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\PagedList.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\PagedList.Mvc.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\EntityFramework.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\Newtonsoft.Json.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Net.Http.Formatting.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.Http.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.Http.WebHost.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.Mvc.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.Razor.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.WebPages.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\obj\Debug\WebXemPhim.csproj.AssemblyReference.cache
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\obj\Debug\WebXemPhim.csproj.CoreCompileInputs.cache
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\obj\Debug\WebXemPhim.csproj.Up2Date
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\obj\Debug\WebXemPhim.dll
+C:\Users\dangkhoa\Desktop\WebXemPhim0104\WebXemPhim\obj\Debug\WebXemPhim.pdb
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\WebXemPhim.dll.config
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\WebXemPhim.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\WebXemPhim.pdb
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\Antlr3.Runtime.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\EntityFramework.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\Facebook.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\Microsoft.Web.Infrastructure.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\Newtonsoft.Json.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\PagedList.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\PagedList.Mvc.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Net.Http.Formatting.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.Http.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.Http.WebHost.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.Mvc.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.Optimization.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.Providers.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.Razor.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.WebPages.Deployment.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.WebPages.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.WebPages.Razor.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\WebGrease.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\Facebook.xml
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\PagedList.xml
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\PagedList.Mvc.xml
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\EntityFramework.xml
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\Newtonsoft.Json.xml
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Net.Http.Formatting.xml
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.Http.xml
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.Http.WebHost.xml
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.Mvc.xml
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.Razor.xml
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.WebPages.xml
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.WebPages.Deployment.xml
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\bin\System.Web.WebPages.Razor.xml
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\obj\Debug\WebXemPhim.csproj.AssemblyReference.cache
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\obj\Debug\WebXemPhim.csproj.CoreCompileInputs.cache
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\obj\Debug\WebXemPhim.csproj.CopyComplete
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\obj\Debug\WebXemPhim.dll
+D:\2023-2024\Lập trình Web\Báo cáo lập trình\WEB\WebXemPhim.final\WebXemPhim\obj\Debug\WebXemPhim.pdb
